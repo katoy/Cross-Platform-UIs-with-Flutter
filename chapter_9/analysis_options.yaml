@@ -137,7 +137,7 @@ linter:
 
     # Although there are some false positives, this lint generally catches
     # unnecessary checks.
-    invariant_booleans: true
+    # invariant_booleans: true
 
     # Hint to join return and assignment
     join_return_with_assignment: true
