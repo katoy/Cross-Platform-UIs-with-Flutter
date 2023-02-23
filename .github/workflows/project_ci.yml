@@ -12,7 +12,7 @@ on:
 jobs:
   verify_project_health:
     name: Chapter 9 project - CI
-    runs-on: windows-latest
+    runs-on: macos-latest
     defaults:
       run:
         working-directory: chapter_9
